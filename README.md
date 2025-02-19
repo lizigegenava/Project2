@@ -2,4 +2,6 @@
 
 This is my second project
 
-I made this project to tt
+I made this project to track students' courses and grades
+
+(edit)
